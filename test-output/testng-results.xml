@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8884" started-at="2022-04-09T19:29:14 IST" finished-at="2022-04-09T19:29:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8884" started-at="2022-04-09T19:29:14 IST" finished-at="2022-04-09T19:29:23 IST">
+      <class name="com.rmgYantra.authorization.Oauth2Test">
+        <test-method status="PASS" signature="auth()[pri:0, instance:com.rmgYantra.authorization.Oauth2Test@78e67e0a]" name="auth" duration-ms="8750" started-at="2022-04-09T19:29:14 IST" finished-at="2022-04-09T19:29:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth -->
+      </class> <!-- com.rmgYantra.authorization.Oauth2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
